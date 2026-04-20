@@ -1,5 +1,5 @@
 
-PYP_Iniparser
+PYP_Iniparser (edu)
 ===============
 
 module
